@@ -1,6 +1,6 @@
 # Google Dark Search
 
-**Note**: I'm missing various elements, like the new right content bar and certain buttons at the bottom and the border on the main page.
+**Note**: Add an issue on this project if you find any "light mode" remnants and I'll fix them.
 
 This is a site theme to turn the Google Search website dark, also often described as 'Night Mode'.  
 
