@@ -1,9 +1,13 @@
 # Google Dark Search
 
-This is a userstyle (or theme) to turn the Google Search website dark, also often described as 'Night Mode'.  
+**Note**: I'm missing various elements, like the new right content bar and certain buttons at the bottom and the border on the main page.
 
-To use it, **first install the browser extension [Styl*us*](http://bit.ly/stylus-homepage) (not Stylish)** and *then* use this link: https://github.com/lonkle/google-dark/raw/master/google-search.css
+This is a site theme to turn the Google Search website dark, also often described as 'Night Mode'.  
 
-The mobile site is currently not supported.  
+Chrome, Firefox, Opera Desktop Users: **First install the browser extension [Styl*us*](http://bit.ly/stylus-homepage) (not Stylish)** and *then* use this link: https://github.com/lonkle/google-dark/blob/master/search/search.user.css
+
+Safari Users: Simply use [Cascadea](https://apps.apple.com/us/app/cascadea/id1432182561?mt=12), click the link above and it'll import it into Cascadea even auto-update for you.
+
+Mobile Browsers: **UNSUPPORTED** (until I find a way) 
 
 ![Screenshot](https://raw.githubusercontent.com/hyperfekt/google-dark/master/search/search.jpg)
